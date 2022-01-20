@@ -1,4 +1,4 @@
-package com.plcoding.dictionary.ui.theme
+package com.plcoding.dictionary.dictionary.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

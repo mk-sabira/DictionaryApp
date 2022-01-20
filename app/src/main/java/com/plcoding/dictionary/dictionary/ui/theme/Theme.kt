@@ -1,4 +1,4 @@
-package com.plcoding.dictionary.ui.theme
+package com.plcoding.dictionary.dictionary.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

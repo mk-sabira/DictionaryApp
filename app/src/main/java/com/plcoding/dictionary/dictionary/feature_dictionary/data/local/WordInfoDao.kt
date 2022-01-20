@@ -9,6 +9,7 @@ import com.plcoding.dictionary.dictionary.feature_dictionary.data.local.entity.W
 
 @Dao
 interface WordInfoDao {
+
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertWordInfo(infos: List<WordInfoEntity>)
 
